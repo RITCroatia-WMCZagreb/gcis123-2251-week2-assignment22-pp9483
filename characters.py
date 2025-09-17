@@ -20,8 +20,9 @@ def subtract_chars(onea,twoa,one,two):
 
 
      
-    
 
+# comment 1 - when i run my program it seems to work, and i can't access the lecture slides so i can't look at the table
+# comment 2 - when the user types more than one character, 
 
 
 
